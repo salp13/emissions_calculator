@@ -5,7 +5,7 @@
     * One view that receives emissions data and returns total calculations
     * One model and serializer to validate request data
 
-## How to run application
+#### How to run application
 * Frontend:
     * navigate to emissions-calculator/
     * command: npm start
@@ -15,7 +15,7 @@
     * navigate to api/api
     * command: python manage.py runserver
 
-## How to run tests
+#### How to run tests
 * Frontend:
     * navigate to emissions-calculator/
     * command: npm test
